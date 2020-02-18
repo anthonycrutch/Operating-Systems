@@ -1,0 +1,3 @@
+Memory management
+The memory can't be managed without the operating systems. Different programs will 
+process different functions. A long with booting. It checks the computer and makes it ready to work.
