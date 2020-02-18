@@ -4,3 +4,7 @@ process different functions. A long with booting. It checks the computer and mak
 Loading
 A program is loaded in the memory before it can be used. operating systems provide a facility where programs can load easily. With the data it is important for the system.
 The operating system will protect data. 
+Disk management 
+The operating system manages the disk space. it manages folders and files.
+Also the operating system controls all devices attached to the CPU. The disk managemnt
+You can also create and delete data using this.
