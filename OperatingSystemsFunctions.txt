@@ -3,4 +3,4 @@ The memory can't be managed without the operating systems. Different programs wi
 process different functions. A long with booting. It checks the computer and makes it ready to work.
 Loading
 A program is loaded in the memory before it can be used. operating systems provide a facility where programs can load easily. With the data it is important for the system.
-The operating system will protect data.
+The operating system will protect data. 
